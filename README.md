@@ -22,15 +22,15 @@ https://www.intersystems.com/wp-content/uploads/sites/6/InterSystems_Performance
 
 (2)　IRIS-HistoryMonitor.Installer.xml
 
-  InterSystems IRIS／IRIS for Health用の、履歴モニタで収集した情報を Analytics（DeepSee）メニューで分析の流れ使用しています。
+ 	InterSystems IRIS／IRIS for Health用の、履歴モニタで収集した情報を Analytics（DeepSee）メニューで分析の流れ使用しています。
 
 
 (3)　HistoryMonitor.Installer.xml
 
-  Cache／Ensemble2014.1 ～2018.1でご利用いただけます。（IRIS／IRIS for Healthの場合は (2)をご利用ください）
-  DeepSeeダッシュボードで履歴モニタの収集値を確認する環境インストール用に利用しています。
-  
-  （1）と同様に、使用方法詳細については、ガイドのP43以降をご参照ください。
+ 	Cache／Ensemble2014.1 ～2018.1でご利用いただけます。（IRIS／IRIS for Healthの場合は (2)をご利用ください）
+ 	DeepSeeダッシュボードで履歴モニタの収集値を確認する環境インストール用に利用しています。
+	
+	（1）と同様に、使用方法詳細については、ガイドのP43以降をご参照ください。
 
 
 
@@ -42,13 +42,13 @@ https://www.intersystems.com/wp-content/uploads/sites/6/InterSystems_Performance
 
 (3)　ZTask.HistoryMonitorDailyDataPurge.xml
 
-  ガイドでは、説明だけの登場ですが　日次データ削除用　サンプルタスクです。
-  (1)(2)　のインストールに使用する環境にインポートしてご利用ください。
+	ガイドでは、説明だけの登場ですが　日次データ削除用　サンプルタスクです。
+	(1)(2)　のインストールに使用する環境にインポートしてご利用ください。
 
 
 (4)　ZTask.mgstat.xml
 
-  ガイドに登場する ^mgstatルーチンによるシステム使用状況のデータ収集ルーチン用タスクです。
-  %SYSネームスペースにインポートしてご利用ください。
+	ガイドに登場する ^mgstatルーチンによるシステム使用状況のデータ収集ルーチン用タスクです。
+	%SYSネームスペースにインポートしてご利用ください。
 
 以上です。
