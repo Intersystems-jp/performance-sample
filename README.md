@@ -22,7 +22,8 @@ https://www.intersystems.com/wp-content/uploads/sites/6/InterSystems_Performance
 
 (2)　IRIS-HistoryMonitor.Installer.xml
 
- 	InterSystems IRIS/IRIS for Health用の履歴モニタで収集した情報をAnalytics(DeepSee)メニューで分析の流れ使用しています。
+ 	InterSystems IRIS/IRIS for Health用の履歴モニタで収集した情報を、
+	Analytics(DeepSee)で分析する流れで使用しています。
 
 
 (3)　HistoryMonitor.Installer.xml
